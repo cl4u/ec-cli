@@ -8,6 +8,8 @@
 
 ## 搭建 ec-cli 脚手架
 
+说明：该脚手架可以创建三套后台管理模板，分别是[vue2Template](https://github.com/ec-cli/vue2Template)、[vue3Template](https://github.com/ec-cli/vue3Template)、[vue3TsTemplate](https://github.com/ec-cli/vue3TsTemplate)。
+
 ### 安装
 
 ```shell
